@@ -1,3 +1,4 @@
+//this file explain multi level inheritance and eacily to under stand the coding 
 import java.io.*;
         //extends is a keyword to inherite a another class
  class born
